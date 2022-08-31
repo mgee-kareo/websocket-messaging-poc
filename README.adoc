@@ -1,8 +1,3 @@
-Huge thanks to these two tutorials:
-
-* https://www.baeldung.com/websockets-spring
-* https://www.youtube.com/watch?v=LdQY-OUM2mk&t=603s&ab_channel=LiliumCode 
-
 # Goal of POC:
 Demonstrate whether it is feasible to use websockets with springboot, especially whether it is possible to send a message to one specific user vs another.
 
@@ -13,3 +8,10 @@ Demonstrate whether it is feasible to use websockets with springboot, especially
 3. Hit the `connect` button in both browser windows.
 4. Put your public name into the field for public names and hit `send`.  You should see a greeting across all the windows.
 5. Put your private name in the field for private names and hit the associated `send` button.  You should only see the private name in the window where you pressed send.
+
+Huge thanks to these two tutorials:
+
+* https://www.baeldung.com/websockets-spring
+* https://spring.io/guides/gs/messaging-stomp-websocket/
+* https://github.com/spring-guides/gs-messaging-stomp-websocket (repo that this POC was based off of)
+* https://www.youtube.com/watch?v=LdQY-OUM2mk&t=603s&ab_channel=LiliumCode 
