@@ -9,7 +9,7 @@ Demonstrate whether it is feasible to use websockets with springboot, especially
 4. Put your public name into the field for public names and hit `send`.  You should see a greeting across all the windows.
 5. Put your private name in the field for private names and hit the associated `send` button.  You should only see the private name in the window where you pressed send.
 
-Huge thanks to these two tutorials:
+# Huge thanks to these tutorials for teaching me how to implement websockets:
 
 * https://www.baeldung.com/websockets-spring
 * https://spring.io/guides/gs/messaging-stomp-websocket/
